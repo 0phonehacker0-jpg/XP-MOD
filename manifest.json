@@ -1,0 +1,8 @@
+{
+  "name": "XP MOD",
+  "short_name": "XP MOD",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0b1020",
+  "theme_color": "#00d4ff"
+}
